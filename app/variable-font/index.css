@@ -1,0 +1,8 @@
+.char {
+  --wdth: 100;
+  font-variation-settings: "wght" 800, "wdth" var(--wdth);
+}
+
+.line {
+  display: flex;
+}
