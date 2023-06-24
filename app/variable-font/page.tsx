@@ -75,6 +75,10 @@ export default function Page() {
         </div>
         <div data-text>Everyday→</div>
       </div>
+
+      <div className=" absolute bottom-5 text-sm left-5 xl:left-12">
+        Images from Unsplash
+      </div>
     </div>
   );
 }
